@@ -153,9 +153,9 @@ dmypy.json
 cython_debug/
 
 # Large Data Files
-la_listings.csv.gz
-nyc_listings.csv.gz
-sd_listings.csv.gz
+la_listings.csv
+nyc_listings.csv
+sd_listings.csv
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
